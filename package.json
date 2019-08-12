@@ -1,0 +1,41 @@
+{
+  "name": "BMFEmployee2",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "expo-linear-gradient": "^4.0.0",
+    "expo-location": "^4.0.0",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.58.6",
+    "react-native-android-location-services-dialog-box": "^2.8.0",
+    "react-native-display": "^1.0.8",
+    "react-native-firebase": "^5.2.3",
+    "react-native-geolocation-service": "^2.0.0",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-html-to-pdf": "^0.7.0",
+    "react-native-modal": "^9.0.0",
+    "react-native-super-grid": "^3.0.3",
+    "react-native-unimodules": "^0.2.0",
+    "react-native-vector-icons": "^6.3.0",
+    "react-navigation": "^2.16.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.0",
+    "@babel/runtime": "7.4.2",
+    "@react-native-community/eslint-config": "0.0.3",
+    "babel-jest": "24.5.0",
+    "eslint": "5.15.3",
+    "jest": "24.5.0",
+    "metro-react-native-babel-preset": "0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

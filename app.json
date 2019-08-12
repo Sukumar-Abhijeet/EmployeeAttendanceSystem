@@ -1,0 +1,8 @@
+{
+  "name": "BMFEmployee2",
+  "displayName": "BMFEmployee2",
+  "android": {
+    "package": "in.bringmyfood.employee",
+    "versionCode": 14
+  }
+}
