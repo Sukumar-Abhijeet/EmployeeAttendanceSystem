@@ -12,7 +12,7 @@
     "expo-location": "^4.0.0",
     "native-base": "^2.12.1",
     "react": "16.8.3",
-    "react-native": "0.58.6",
+    "react-native": "0.70.2",
     "react-native-android-location-services-dialog-box": "^2.8.0",
     "react-native-display": "^1.0.8",
     "react-native-firebase": "^5.2.3",
